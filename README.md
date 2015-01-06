@@ -15,4 +15,7 @@ It should pass a similar suite of unit tests.
 * Implement modular validations.
 * Allow API access to mark a field invalid and set the error message (to allow complex model validations without maintaining any model state on the DOM).
 * Support the new HTML5 input types as much as possible.
-
+* Create our own form element
+  * Focus the first invalid field on **whole form validation errors**
+* Create our own field element with a required label (see [Accessible Client Side Form Validation](http://www.deque.com/blog/accessible-client-side-form-validation-html5/)).
+* [Ease support for WAI-ARIA](http://www.deque.com/blog/accessible-client-side-form-validation-html5-wai-aria/)
