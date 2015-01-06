@@ -7,7 +7,7 @@ This is a complete rewrite of the popular but outdated [h5Validate](https://gith
 
 It should pass a similar suite of unit tests.
 
-The following changes are planned:
+## The following changes are planned
 
 * Implement as a web component instead of a jQuery plugin.
 * Break the dependence on jQuery.
