@@ -1,0 +1,26 @@
+{
+  "name": "h5v2",
+  "version": "0.1.0",
+  "description": "A modular HTML5 form validation web component library.",
+  "main": "lib/h5v2.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ericelliott/h5v2.git"
+  },
+  "keywords": [
+    "html5",
+    "form",
+    "forms",
+    "input",
+    "validation"
+  ],
+  "author": "Eric Elliott",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericelliott/h5v2/issues"
+  },
+  "homepage": "https://github.com/ericelliott/h5v2"
+}
