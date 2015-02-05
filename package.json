@@ -1,7 +1,7 @@
 {
   "name": "h5v2",
   "version": "0.1.1",
-  "description": "A modular HTML5 form validation web component library.",
+  "description": "An unfinished modular HTML5 form validation web component library.",
   "main": "lib/h5v2.js",
   "scripts": {
     "test": "npm test"
