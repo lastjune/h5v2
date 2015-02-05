@@ -1,7 +1,7 @@
 h5v2
 ====
 
-A web component, npm-compatible version of h5Validate, the popular HTML5 form validation library.
+An unfinished web component, npm-compatible version of h5Validate, the popular HTML5 form validation library.
 
 This is a complete rewrite of the popular but outdated [h5Validate](https://github.com/ericelliott/h5Validate).
 
